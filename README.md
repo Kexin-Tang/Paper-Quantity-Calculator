@@ -2,7 +2,7 @@
 
 该项目为 **2019年全国大学生电子设计竞赛F题** 对应的代码
 
-[English Version]
+[English Version](https://github.com/Kexin-Tang/Paper-Quantity-Calculator/blob/master/README_EN.md)
 
 # 要求
 只使用两块5cm×5cm的铜板完成对任意放入铜板间的纸张进行测数，在铜板上 **只能留有两根导线**，不能附带其他物件。
